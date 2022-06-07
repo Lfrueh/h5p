@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
 .h5p-image-hotspots {
+  background: #fff;
   color: #333;
 }
 .h5p-image-hotspots .h5p-content-controls {
@@ -35,7 +36,6 @@
   border-radius: 0.7em;
   -webkit-transition: all .2s ease-in-out;
   transition: all .2s ease-in-out;
-  background: #fff;
   padding: 0;
   border: 1px solid transparent;
   margin: 0;
