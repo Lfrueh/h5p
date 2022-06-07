@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 .h5p-image-hotspots {
-  color: #333;
+  color: #000000;
 }
 .h5p-image-hotspots .h5p-content-controls {
   transition: opacity 0.6s;
